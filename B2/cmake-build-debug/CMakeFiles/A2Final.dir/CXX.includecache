@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLion Projects/B2/Center.h
+
+D:/CLion Projects/B2/Figure.cpp
+Figure.h
+D:/CLion Projects/B2/Figure.h
+
+D:/CLion Projects/B2/Figure.h
+FileFunctions.h
+D:/CLion Projects/B2/FileFunctions.h
+Shape.h
+D:/CLion Projects/B2/Shape.h
+Line.h
+D:/CLion Projects/B2/Line.h
+Point.h
+D:/CLion Projects/B2/Point.h
+Triangle.h
+D:/CLion Projects/B2/Triangle.h
+Polygon.h
+D:/CLion Projects/B2/Polygon.h
+
+D:/CLion Projects/B2/FileFunctions.h
+sstream
+-
+Shape.h
+D:/CLion Projects/B2/Shape.h
+Point.h
+D:/CLion Projects/B2/Point.h
+Line.h
+D:/CLion Projects/B2/Line.h
+Triangle.h
+D:/CLion Projects/B2/Triangle.h
+Polygon.h
+D:/CLion Projects/B2/Polygon.h
+
+D:/CLion Projects/B2/Line.h
+Point.h
+D:/CLion Projects/B2/Point.h
+
+D:/CLion Projects/B2/Point.h
+Shape.h
+D:/CLion Projects/B2/Shape.h
+
+D:/CLion Projects/B2/Polygon.h
+Point.h
+D:/CLion Projects/B2/Point.h
+
+D:/CLion Projects/B2/Shape.h
+Center.h
+D:/CLion Projects/B2/Center.h
+string
+-
+cmath
+-
+iostream
+-
+
+D:/CLion Projects/B2/Triangle.h
+Point.h
+D:/CLion Projects/B2/Point.h
+
